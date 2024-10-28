@@ -1,0 +1,6 @@
+syntax = "proto2";
+
+message tst {
+    optional uint32 id = 1;
+    optional string text = 4;
+}
